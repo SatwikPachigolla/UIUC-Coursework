@@ -1,0 +1,10 @@
+8
+Rectangle 2 5.5
+Rectangle 2 3
+RectPrism 3 1.5 8
+RectPrism 2 3 4
+Rectangle 9.2 2.2
+Rectangle 10.3 4.7
+Rectangle 4.9 1.1
+RectPrism 9.2 5.3 4.9
+

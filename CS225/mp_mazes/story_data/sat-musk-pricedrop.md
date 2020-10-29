@@ -1,0 +1,1 @@
+The price drop leads to the demand level they were already having trouble keeping up with to go even higher. This doesn't reflect well on the company and Tesla loses credibility. The company eventually goes out business.
